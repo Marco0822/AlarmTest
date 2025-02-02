@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/AlarmTest1.app/libSystem.IO.Compression.Native.dylib
