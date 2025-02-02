@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlarmTest1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+93d7592f433b1f888a868f610f701ab61f33885f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlarmTest1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlarmTest1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

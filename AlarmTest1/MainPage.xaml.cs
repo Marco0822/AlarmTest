@@ -18,21 +18,8 @@ public partial class MainPage : ContentPage
         };
 	}
 
-	private void OnCounterClicked(object sender, EventArgs e)
-	{
-		count++;
-
-		if (count == 1)
-			CounterBtn.Text = $"Clicked {count} time";
-		else
-			CounterBtn.Text = $"Clicked {count} times";
-
-		SemanticScreenReader.Announce(CounterBtn.Text);
-	}
-
 	private void OnInstantNotifClicked(object sender, EventArgs e)
 	{
-		Console.WriteLine("Instant Notification Clicked");
 		notificationNumber++;
         string title = $"Local Notification #{notificationNumber}";
         string message = $"You have now received {notificationNumber} notifications!";
@@ -41,10 +28,10 @@ public partial class MainPage : ContentPage
 
 	private void OnTimedNotifClicked(object sender, EventArgs e)
 	{
-		Console.WriteLine("Timed Notification Clicked");
 		notificationNumber++;
-        string title = $"Local Notification #{notificationNumber}";
-        string message = $"You have now received {notificationNumber} notifications!";
+        string title = $"Local Alarm #{notificationNumber}";
+        //string message = $"You have now received {notificationNumber} notifications!";
+		string message = $"Your alarm is ringing!";
 		Console.WriteLine("TimeEntry.Text: " + TimeEntry.Text);
 		notificationManager.SendNotification(title, message, DateTime.Now.AddSeconds(Convert.ToInt32(TimeEntry.Text)));
 	}
