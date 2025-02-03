@@ -6,9 +6,6 @@
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/com.companyname.alarmtest1-Signed.aab
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/com.companyname.alarmtest1-Signed.apk
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/com.companyname.alarmtest1-Signed.apk.idsig
-/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/Microsoft.Maui.Controls.HotReload.Forms.dll
-/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/build.props
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/adb.props
@@ -126,7 +123,6 @@
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/AlarmTest1.AssemblyInfo.cs
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/AlarmTest1.csproj.CoreCompileInputs.cache
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/XamlC.stamp
-/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/AlarmTest1.csproj.Up2Date
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/AlarmTest1.dll
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/AlarmTest1.pdb
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/AlarmTest1.genruntimeconfig.cache
@@ -1050,3 +1046,11 @@
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/stamp/_GenerateJavaStubs.stamp
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/stamp/_ResolveLibraryProjectImports.stamp
+/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/AlarmTest1.sourcelink.json
+/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/res/drawable/dotnet_logo.png
+/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/res/drawable/message_small.png
+/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/android/src/crc6438108829fccb22bb/AlarmHandler.java
+/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-android/Microsoft.VisualStudio.DesignTools.TapContract.dll
+/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/obj/Debug/net8.0-android/AlarmTest1.csproj.Up2Date

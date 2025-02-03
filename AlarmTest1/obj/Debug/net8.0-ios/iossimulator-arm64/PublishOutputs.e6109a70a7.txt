@@ -50,9 +50,6 @@
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/Microsoft.Maui.Essentials.dll
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/Microsoft.Maui.Graphics.dll
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/System.Diagnostics.DiagnosticSource.dll
-/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/Microsoft.Maui.Controls.HotReload.Forms.dll
-/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-/Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/AlarmTest1.dll
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/Microsoft.CSharp.dll
 /Users/marcokwong/Marco/Personal/Coding/MAUI/AlarmTest1/AlarmTest1/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../AlarmTest1.app/Microsoft.VisualBasic.Core.dll

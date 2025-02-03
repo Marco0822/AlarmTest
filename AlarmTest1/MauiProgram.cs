@@ -20,9 +20,9 @@ public static class MauiProgram
 #endif
 
 #if ANDROID
-            builder.Services.AddSingleton<INotificationManagerService, LocalNotificationsDemo.Platforms.Android.NotificationManagerService>();
+            builder.Services.AddSingleton<INotificationManagerService, AlarmTest1.Platforms.Android.NotificationManagerService>();
 #elif IOS
-            builder.Services.AddSingleton<INotificationManagerService, LocalNotificationsDemo.Platforms.iOS.NotificationManagerService>();
+            builder.Services.AddSingleton<INotificationManagerService, AlarmTest1.Platforms.iOS.NotificationManagerService>();
 #endif
             builder.Services.AddSingleton<MainPage>();
 

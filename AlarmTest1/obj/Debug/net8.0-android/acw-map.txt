@@ -4,6 +4,9 @@ alarmtest1.MainActivity;crc64efb4eedab88530c8.MainActivity
 AlarmTest1.MainApplication, AlarmTest1;crc64efb4eedab88530c8.MainApplication
 AlarmTest1.MainApplication;crc64efb4eedab88530c8.MainApplication
 alarmtest1.MainApplication;crc64efb4eedab88530c8.MainApplication
+AlarmTest1.Platforms.Android.AlarmHandler, AlarmTest1;crc6438108829fccb22bb.AlarmHandler
+AlarmTest1.Platforms.Android.AlarmHandler;crc6438108829fccb22bb.AlarmHandler
+alarmtest1.platforms.android.AlarmHandler;crc6438108829fccb22bb.AlarmHandler
 GoogleGson.IExclusionStrategy, GoogleGson;com.google.gson.ExclusionStrategy
 GoogleGson.IExclusionStrategy;com.google.gson.ExclusionStrategy
 com.google.gson.ExclusionStrategy;com.google.gson.ExclusionStrategy
